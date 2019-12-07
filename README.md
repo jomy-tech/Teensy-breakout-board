@@ -2,9 +2,21 @@
 
 Program example for joromy Teensy breakout board.
 
-Read and send an analog value from one board to anaother, via CAN bus.
+Read and send a value from one board to anaother, via CAN bus.
+
+PROGRAM REQUIREMENTS:
+
+New FlexCAN libarary
+
+https://github.com/collin80/FlexCAN_Library
+
+INTRODUCTION:
 
 The breakout board is a combo board that can be used with Teensy ver. 3.2 and 4.0 microcontroller module.
+
+All pins and connectors are named on the board, easy! No need to look in the manual!
+
+There is also a prototype area where you can add 2.54mm pitch components.
 
 FEATURES:
 
@@ -39,9 +51,3 @@ ELECTRICAL SPESIFICATIONS:
 •	High side output; 4 X 2.6A 
 
 •	High/Low side outputs can drive resistive, inductive and capacitive loads
-
-PROGRAM REQUIREMENTS:
-
-New FlexCAN libarary
-
-https://github.com/collin80/FlexCAN_Library
