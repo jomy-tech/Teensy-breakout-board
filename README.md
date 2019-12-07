@@ -2,6 +2,8 @@
 
 Program example for joromy Teensy breakout board.
 
+Read and send an analog value from one board to anaother, via CAN bus.
+
 The breakout board is a combo board that can be used with Teensy ver. 3.2 and 4.0 microcontroller module.
 
 FEATURES:
