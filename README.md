@@ -1,6 +1,8 @@
-# Teensy-breakout-board
+# Teensy-breakout-board CAN send CAN receive
 
-This breakout board is a combo board that can be used with Teensy ver. 3.2 and 4.0 microcontroller module.
+Program example for joromy Teensy breakout board.
+
+The breakout board is a combo board that can be used with Teensy ver. 3.2 and 4.0 microcontroller module.
 
 FEATURES:
 
@@ -36,6 +38,9 @@ ELECTRICAL SPESIFICATIONS:
 
 •	High/Low side outputs can drive resistive, inductive and capacitive loads
 
+
+
+PROGRAM REQUIREMENTS:
 
 Will requre new FlexCAN libarary
 
