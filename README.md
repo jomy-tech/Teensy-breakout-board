@@ -37,6 +37,6 @@ ELECTRICAL SPESIFICATIONS:
 •	High/Low side outputs can drive resistive, inductive and capacitive loads
 
 
-Will requres new FlexCAN libarary
+Will requre new FlexCAN libarary
 
 https://github.com/collin80/FlexCAN_Library
